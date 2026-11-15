@@ -1,0 +1,48 @@
+x-server-env: &server-env
+  DATABASE_URL: postgresql+psycopg://memoryforall:${POSTGRES_PASSWORD:-memoryforall}@db:5432/memoryforall
+  REDIS_URL: redis://redis:6379
+
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    environment:
+      POSTGRES_USER: memoryforall
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-memoryforall}
+      POSTGRES_DB: memoryforall
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U memoryforall -d memoryforall"]
+      interval: 2s
+      retries: 30
+
+  redis:
+    image: redis:7-alpine
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 2s
+      retries: 30
+
+  api:
+    build: ./server
+    environment: *server-env
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      db: { condition: service_healthy }
+      redis: { condition: service_healthy }
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 3s
+      retries: 20
+
+  worker:
+    build: ./server
+    command: ["arq", "memoryforall.worker.WorkerSettings"]
+    environment: *server-env
+    depends_on:
+      redis: { condition: service_healthy }
+      api: { condition: service_healthy }
+
+volumes:
+  pgdata:
