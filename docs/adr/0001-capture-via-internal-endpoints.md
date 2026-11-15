@@ -1,0 +1,3 @@
+# Capture through providers' internal endpoints, not official exports
+
+The extension calls each Provider's undocumented web endpoints with your own session, because that gives message ids, branches and live updates that exports and page scraping do not, with no manual uploads. Anthropic's consumer terms prohibit scripted access except with an API key, and OpenAI's terms are believed to be similar, so this is a deliberate, personal-use-only risk; the extension is never published to a store. The fallback if a Provider blocks it is importing that Provider's official export file through the same Adapter. See docs/research/provider-endpoints.md.
