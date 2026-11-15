@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  server:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: pgvector/pgvector:pg17
+        env:
+          POSTGRES_USER: memoryforall
+          POSTGRES_PASSWORD: memoryforall
+          POSTGRES_DB: memoryforall_test
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U memoryforall" --health-interval 2s --health-retries 30
+    env:
+      DATABASE_URL: postgresql+psycopg://memoryforall:memoryforall@localhost:5432/memoryforall_test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+      - run: echo "$GITHUB_WORKSPACE/server/.venv/bin" >> "$GITHUB_PATH"
+      - run: cd server && uv sync --frozen && ruff check . && mypy . && pytest -q
+
+  extension:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: extension/package-lock.json
+      - run: cd extension && npm ci --silent && npm run typecheck && npm test
