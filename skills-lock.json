@@ -1,0 +1,1541 @@
+{
+  "version": 2,
+  "skills": {
+    "accessibility-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/accessibility-review/SKILL.md",
+      "computedHash": "47f1742bc651c43275a313d159623cf51b5cda8934bfc9088c404a593e5a7e9e"
+    },
+    "account-context": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/account-context/SKILL.md",
+      "computedHash": "69412ecc6afa94cb524c95c5964e476e0e88015a7ded667a83fa30c11525aed0"
+    },
+    "account-plan": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/account-plan/SKILL.md",
+      "computedHash": "42a3fb88a8b328866f43b6355c404afd9437a142801ba17cde2abc919d9a28d8"
+    },
+    "account-research": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/account-research/SKILL.md",
+      "computedHash": "5723a6d942854f4510f27759d54d38e5b2425762c5e2d754ed7a4dbc9c44da5d"
+    },
+    "account-tiering": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/account-tiering/SKILL.md",
+      "computedHash": "e76f4450b860e5438eec5709b4f2050289f7eb3af4a13cd7eee270df7cb913c0"
+    },
+    "ad-manager": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/ad-manager/SKILL.md",
+      "computedHash": "29288887ed9028655ca518df76cdb006337ad67dd2665b42ac57ba6771bbc94e"
+    },
+    "analyze": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/analyze/SKILL.md",
+      "computedHash": "e2357b25219372781f4ade269f1548c7f95c51ca57e1955a8640a7a0cd56b39c"
+    },
+    "ap-processor": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/ap-processor/SKILL.md",
+      "computedHash": "c90d2cb6f59e292750c97f0acc5e24b6929a0683964da09eba9100936f78c112"
+    },
+    "architecture": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/architecture/SKILL.md",
+      "computedHash": "798fb80a8686ffbde8d5461f2c870f019c8cd53434bb7409babd3bc5da952c6a"
+    },
+    "ask-matt": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/ask-matt/SKILL.md",
+      "computedHash": "7ff2383b40fe9d8f3e753d267d964fb2b44d120a948fd2a57c3b26ddfc318370"
+    },
+    "audit-support": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/audit-support/SKILL.md",
+      "computedHash": "b26ec1476a8aee4802661a1b26bf272cfbe1e1a2ac78c1920e84cd84c9fe206e"
+    },
+    "brand-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/brand-review/SKILL.md",
+      "computedHash": "26ebbc0f7dfc6116eac49f0453b795e543ca334ef3649f7e5c4d6a699a8b7651"
+    },
+    "brand-style": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/brand-style/SKILL.md",
+      "computedHash": "a846dc9b32488cfdfe45dce7b3aa5639954d8ba24dc3054ce5c4c937b1bfd32c"
+    },
+    "brand-voice-enforcement": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/brand-voice/skills/brand-voice-enforcement/SKILL.md",
+      "computedHash": "a9b64da9be393bc6b1800d274096a6726474b5c35ea93269b5ab3417bb8cc5dc"
+    },
+    "brief": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/brief/SKILL.md",
+      "computedHash": "9fe88cff02d632bb20e1a548082511fb1cdb6d1503d8b0c79ca07816e73a68d1"
+    },
+    "build-agent": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/build-agent/SKILL.md",
+      "computedHash": "6c4e98a6c5b894af04a80d49f40b56afd37665df5240139d3532cfeeb8e9d1c4"
+    },
+    "build-connector": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/build-connector/SKILL.md",
+      "computedHash": "f83e4ef6d376ca20cd1d4257685bb3bb09ae366faf45cdd5161e920979dd58e3"
+    },
+    "build-dashboard": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/build-dashboard/SKILL.md",
+      "computedHash": "e37e26000f4642eac60fcaf689cea136dfead1be7719cbb138639c3f6c42dfd7"
+    },
+    "build-zoom-bot": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/build-zoom-bot/SKILL.md",
+      "computedHash": "7142927fdcabb40fa0cec4a48b323566ae57c1a3abbfe97e7dce1af6986ae1f2"
+    },
+    "build-zoom-contact-center-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/contact-center/SKILL.md",
+      "computedHash": "23020ec090c1a3cf124bec52217d941286d73c29c51ac67f417ab7e65bdd6ae4"
+    },
+    "build-zoom-meeting-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/build-zoom-meeting-app/SKILL.md",
+      "computedHash": "0de77f77e76c2d344962f3dc9156cc325bb659a43b82c87cfcfda2f7905e40e0"
+    },
+    "build-zoom-meeting-sdk-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/meeting-sdk/SKILL.md",
+      "computedHash": "849070a7ad39a1c42ab723af19968be3e0a766291ede59ab245d1d6eed6ee592"
+    },
+    "build-zoom-phone-integration": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/phone/SKILL.md",
+      "computedHash": "54c8f1ebf66d9e29170b7f6f71ef05ae6f7ca15f5ac521f07cd446e6dad9028d"
+    },
+    "build-zoom-rest-api-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/rest-api/SKILL.md",
+      "computedHash": "f48d53977dc49e869cbba68f1cf946d7bd59268fbc0e4e10674b069f322f1d4f"
+    },
+    "build-zoom-team-chat-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/team-chat/SKILL.md",
+      "computedHash": "cd5f7d36a4df69ee5aa2f9c604ba4e1d8c759a1df89a070b572469613830965e"
+    },
+    "build-zoom-video-sdk-app": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/video-sdk/SKILL.md",
+      "computedHash": "bba024cdccb5a9709db9e838d1b466678d025af799eb1d3ca94b55c65c5e34df"
+    },
+    "build-zoom-virtual-agent": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/virtual-agent/SKILL.md",
+      "computedHash": "a4e3a88328114a94af2d355ba0fc41d7f2270469e02245c6257575c2b284e952"
+    },
+    "business-pulse": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/business-pulse/SKILL.md",
+      "computedHash": "57ef7f2d1b13952ee5e99140c7fb9b551688a625d517c73fb2c9ec1f4f5acf66"
+    },
+    "call-list": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/call-list/SKILL.md",
+      "computedHash": "e60f693b716152dbb73d2897c598c88c8a5bc2f0d34f5b8e0036d5b252460884"
+    },
+    "call-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/call-prep/SKILL.md",
+      "computedHash": "fecbda1629fed16414d635476c1f0e1fb4aa4295763d13019404d853f9e8986c"
+    },
+    "call-summary": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/call-summary/SKILL.md",
+      "computedHash": "3639af0baed037f863a809d28b4335910234431702abf183624342ed76d1cdc4"
+    },
+    "campaign-plan": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/campaign-plan/SKILL.md",
+      "computedHash": "d1884a896c61fb5768b8f8158d4e0f4170b73ed8d866d014d89740e54697e145"
+    },
+    "canva-creator": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/canva-creator/SKILL.md",
+      "computedHash": "7b2ac1319be819260e57452d17169bf98d3ebcdbdb1e130eef72ccbd03e9e60a"
+    },
+    "capacity-plan": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/capacity-plan/SKILL.md",
+      "computedHash": "536568f2a29ea420317cba2e236b667e28fd5cd88b1a1a3679573afe343d0347"
+    },
+    "cash-flow-snapshot": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/cash-flow-snapshot/SKILL.md",
+      "computedHash": "9619d662585677acf1237a166ffaad13a18e5564c3763660375981ae8da49679"
+    },
+    "change-request": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/change-request/SKILL.md",
+      "computedHash": "963dc7a8cc7bb56ab854c976f51ab2d8eff97a69e1e58eeeec07d91cc87f01f8"
+    },
+    "chief-of-staff": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/chief-of-staff/SKILL.md",
+      "computedHash": "dc3348d0f641956ea78dafa037aea745154c516a286ed4156b0c2ec0cbcf581b"
+    },
+    "choose-zoom-approach": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/choose-zoom-approach/SKILL.md",
+      "computedHash": "1cd23a45e2c23b76791c3ef26cec3a1989e26c51aaaf7f248157e6c3dab39439"
+    },
+    "claude-handoff": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/claude-handoff/SKILL.md",
+      "computedHash": "e903af941877ac195671a1eff550ba42266f5f5a4028ebeae4cd1fec82b88dd4"
+    },
+    "close-management": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/close-management/SKILL.md",
+      "computedHash": "c1e634c433e59069feb81ecd2e7b45f03a1f1ca87b4ee9587beb323afcdc7c85"
+    },
+    "close-month": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/close-month/SKILL.md",
+      "computedHash": "463dc556216730e0c615af012eeac11b217ee1a1b2be6a0b63fa418c9f98a7da"
+    },
+    "close-plan": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/close-plan/SKILL.md",
+      "computedHash": "c30aa35be9a69b05ca80206606ccd32b650e43b1843a83cfb25516d23e897ce2"
+    },
+    "code-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/code-review/SKILL.md",
+      "computedHash": "014b298998ad3256206d38c2c4b78a52769476c4d061be8dd164a9522df298ee"
+    },
+    "codebase-design": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/codebase-design/SKILL.md",
+      "computedHash": "d40f025dc1b0f2020663260f38f2bcb8d6ed3523afb11e5fda624b01238677e8"
+    },
+    "comp-analysis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/comp-analysis/SKILL.md",
+      "computedHash": "6a8ba6ef49d08265f4d3cb5bd5c91ae55854ed879c61e39f14e3105b3faa4401"
+    },
+    "competitive-brief": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/competitive-brief/SKILL.md",
+      "computedHash": "55e85d63b80e2559a8248c72838c655e3c22c5066182462c558fe42699117ec8"
+    },
+    "competitive-intelligence": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/competitive-intelligence/SKILL.md",
+      "computedHash": "daea956bc8392da35561e753144d755d6596e76931787882f7442065561e65a7"
+    },
+    "compliance-check": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/compliance-check/SKILL.md",
+      "computedHash": "e95bfe97d83b8aa2ba04cf7fb3292d4902883dce2e200d679cf3df1ee61d9dd4"
+    },
+    "compliance-tracking": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/compliance-tracking/SKILL.md",
+      "computedHash": "a1fc6f34a906b25a1f7367f8732350b67c5012d65c0502ffdabeca7ac5a94594"
+    },
+    "compose-outreach": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/common-room/skills/compose-outreach/SKILL.md",
+      "computedHash": "fc55331be794bdfd3c1cc7a5e33b489e5f6ae6e66ecbdcadf550f7e7a23a2a7c"
+    },
+    "contact-research": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/common-room/skills/contact-research/SKILL.md",
+      "computedHash": "16071f0e05ed6cfe76492cc8be4d07389ff7e1ad49a848497fed335bab99429a"
+    },
+    "content-creation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/content-creation/SKILL.md",
+      "computedHash": "9661e059eb56e59b03ef7f0ae825034f4e10f22bd6add7230a79c6187c44b21f"
+    },
+    "content-strategy": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/content-strategy/SKILL.md",
+      "computedHash": "665fec90f2837428791fa99ccf6bd4c50a58b75dba1e27aacab9883a2722b0bd"
+    },
+    "contract-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/contract-review/SKILL.md",
+      "computedHash": "079acd0b91ddedc709710019d2c5429054c5e046ea7e8cc2aea2d621ead9b6b1"
+    },
+    "cowork-plugin-customizer": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "cowork-plugin-management/skills/cowork-plugin-customizer/SKILL.md",
+      "computedHash": "1df91211cc29234e5712f63abb8066ba8d67676a5ef84472a597e1a72249eced"
+    },
+    "create-an-asset": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/create-an-asset/SKILL.md",
+      "computedHash": "29361e5ebc6fa33f8051290fa74d2eb5ac3d4b93f34da6f1904e78759946e3fe"
+    },
+    "create-cowork-plugin": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "cowork-plugin-management/skills/create-cowork-plugin/SKILL.md",
+      "computedHash": "9965cec2d599ee0b4df1be6942e012a500cee832a2c343e3a4dea1e443842132"
+    },
+    "create-viz": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/create-viz/SKILL.md",
+      "computedHash": "5fb839a14d8a38d2516fcfc749026cf80c2ec04526754f9059f280f29e926707"
+    },
+    "crm-autopilot": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/crm-autopilot/SKILL.md",
+      "computedHash": "1bc5e3a9eecd2eadd333fa5809fe53be5f08769ac9b346cf4df963152847905b"
+    },
+    "crm-hygiene-check": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/crm-hygiene-check/SKILL.md",
+      "computedHash": "0d7f4d792b4d2aa0adbb7b42fffc475096f0b37613143edc6b0178b1e8003ace"
+    },
+    "customer-escalation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "customer-support/skills/customer-escalation/SKILL.md",
+      "computedHash": "27e742e0e560ce4b1d2a6433544e0ffabb697f18853d051a694c081c51787be1"
+    },
+    "customer-health": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/customer-health/SKILL.md",
+      "computedHash": "e1b1f1232f74420f92bf2090dec6ad22e4d2da3e1daad4cb399b222968673f1b"
+    },
+    "customer-research": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "customer-support/skills/customer-research/SKILL.md",
+      "computedHash": "aba8174f9a146e328543bce621721bc5ec64bc642d339192753bd18690edafb5"
+    },
+    "customer-voice": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/customer-voice/SKILL.md",
+      "computedHash": "cea4c8ece3dcf6c60129eb3001040c15586c41eec2c9bbd7cce234768dee813e"
+    },
+    "daily-briefing": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/daily-briefing/SKILL.md",
+      "computedHash": "40caf1c113fce7801802d65e1b9fc04923fde7a159f3c1dbce858546a2b2440c"
+    },
+    "data-context-extractor": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-context-extractor/SKILL.md",
+      "computedHash": "12def1688b911e63324761d526d8da588fb64959e61f0a94da76db5ec8c3cbd3"
+    },
+    "data-visualization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-visualization/SKILL.md",
+      "computedHash": "2d313aa0dc3624db43c11139b10cb2e3e7a264fae1a687ad097d3d0a2fad016b"
+    },
+    "deal-advance-gap": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/deal-advance-gap/SKILL.md",
+      "computedHash": "510a046d9017a60052d4e5caec1b4e9682cb518516feb10067685e1b4e20ef2b"
+    },
+    "deal-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/deal-review/SKILL.md",
+      "computedHash": "defc329bc534b2bf9ce44e532f3374a03999598f629a8f2be8f40375b2059901"
+    },
+    "deal-signals": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/deal-signals/SKILL.md",
+      "computedHash": "bf01166c8631d475ecb2987be554366acd6ba89c7d9c820159537a6229ba4a41"
+    },
+    "deal-slip-scenario": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/deal-slip-scenario/SKILL.md",
+      "computedHash": "778b5522365a830ec9d81d1b80b5138e8510ea247ec6d3210917362fc5c52ce4"
+    },
+    "debug": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/debug/SKILL.md",
+      "computedHash": "999969754b1ae08a2dd8036e901174e0ec71b1dbead9bc955f9bd893ed770d64"
+    },
+    "debug-zoom": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/debug-zoom/SKILL.md",
+      "computedHash": "c20a9c059e6de187ccf926f634a1446eb4ed95ac7a13b8eca057d4b6a863ebf7"
+    },
+    "debug-zoom-integration": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/debug-zoom-integration/SKILL.md",
+      "computedHash": "c2514d7a2a38a7bc7eb2bd3f6031a0e60d7be7acd7302ab0e5109fddd28c6b50"
+    },
+    "deploy-checklist": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/deploy-checklist/SKILL.md",
+      "computedHash": "a15fbdc1cd75546a653061768d898697eb52d31f1ed0b5f8393bad009fdb80d4"
+    },
+    "design-critique": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/design-critique/SKILL.md",
+      "computedHash": "b9647396db0c7a2208519ae3e8313646705aef4b9a2ddab82088b54fe2404f05"
+    },
+    "design-handoff": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/design-handoff/SKILL.md",
+      "computedHash": "a6db910224e53fcdf627d06950400f714bf85957ccf9b9824f195c209bae44b3"
+    },
+    "design-mcp-workflow": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/design-mcp-workflow/SKILL.md",
+      "computedHash": "60fb39999589d1b6fd1c03eeb601996b9bbf09bdbe948b88c056246f0a7d0205"
+    },
+    "design-system": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/design-system/SKILL.md",
+      "computedHash": "ea43527b6f738c03f2a5fbaf76a2567b0271ebbb0d158aa9c618321366aaaff8"
+    },
+    "diagnosing-bugs": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/diagnosing-bugs/SKILL.md",
+      "computedHash": "87c78ae966e591f9ceb177789cc5cc9de69277cd26679ffd36ca5300f430d513"
+    },
+    "digest": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "enterprise-search/skills/digest/SKILL.md",
+      "computedHash": "a3090ece0a892357905bb637e2b7fee98c08d6d3f7e04fa50202e38c012308fc"
+    },
+    "discover-brand": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/brand-voice/skills/discover-brand/SKILL.md",
+      "computedHash": "843fd994a32613f885b9587f47c2efa67a92b7c944724fc4aa375a7da6e77b94"
+    },
+    "documentation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/documentation/SKILL.md",
+      "computedHash": "d401429502dcfb37aadfbeddcc3577a9618c393555d305c56821800570dcd1ed"
+    },
+    "domain-modeling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/domain-modeling/SKILL.md",
+      "computedHash": "b78689833404148c769077355e12dbe5ad996a158a1e21e58ddf169e439d9d8c"
+    },
+    "draft-content": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/draft-content/SKILL.md",
+      "computedHash": "d63e4a6609996c5149f362df9be890fb4fd99989a849cb6169754419d49d8e5e"
+    },
+    "draft-offer": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/draft-offer/SKILL.md",
+      "computedHash": "fd4b7c119338aa817ca353be0fb61c73687574ce34186266416212a89f8f260c"
+    },
+    "draft-outreach": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/draft-outreach/SKILL.md",
+      "computedHash": "07efc18d5ca5863b34a11b50b52a70f4d8131f31e58979cd30425f0882456048"
+    },
+    "draft-response": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "customer-support/skills/draft-response/SKILL.md",
+      "computedHash": "292cbdf34dec6f6592615de09365143e947f9c0bc4c50149348b47965fb8c6e9"
+    },
+    "email-sequence": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/email-sequence/SKILL.md",
+      "computedHash": "88399c16858dfaa79f72337cf0c962056f50b5a21d27bb6687be1a8198d1d250"
+    },
+    "end-of-day": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/end-of-day/SKILL.md",
+      "computedHash": "ee65c9ebcab3617a97db25ed5b45d423ba6439d16f32ec4ff94bf8c6907bd089"
+    },
+    "enrich-lead": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/apollo/skills/enrich-lead/SKILL.md",
+      "computedHash": "98448b1b32a59fd5233d377eea83c335b56985f00de6eda0ceccf7d6b711c8b8"
+    },
+    "expansion-whitespace": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/expansion-whitespace/SKILL.md",
+      "computedHash": "ab6b2b1f849c55c55ea3aa51b901c79068ae186e995d85cf8cccca71c1b7bc22"
+    },
+    "explore-data": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/explore-data/SKILL.md",
+      "computedHash": "d70b247b5675b4bcd7f3c2921f0d4b230f967288ad7c4e66fe553ea682a8ab2f"
+    },
+    "financial-statements": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/financial-statements/SKILL.md",
+      "computedHash": "2dfb0e45821fc35806a9c0ed4c1d1918ba2be950bde3e764c38da6b3d8c96e91"
+    },
+    "forecast": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/forecast/SKILL.md",
+      "computedHash": "43df3133f7af6a4d1362471a903025c17a76714db29ea112c19db804b320f780"
+    },
+    "git-guardrails-claude-code": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/misc/git-guardrails-claude-code/SKILL.md",
+      "computedHash": "7aa92e9d469c6cd0b24ed8accb2e4be681c44c1524d71604c06b4055b7b56482"
+    },
+    "grant-rfp-writer": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/grant-rfp-writer/SKILL.md",
+      "computedHash": "6601d95c192b85e1362a1ca6c2e8ce7a692f40943bb5f66c7bafa62f82cce9c3"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "computedHash": "ab1acb9fbd9eaee03da254abb8a8de228d1e7a07475fe959da4a5eefa34ea4b9"
+    },
+    "grill-with-docs": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "computedHash": "02e258f41d210f9b2e7cce9faf62b3c59e8fcebe5d2736369c3cd07d471324f8"
+    },
+    "grilling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "computedHash": "485451958784497cd4c4dbea13cb5bbb579da58fac0d0e45f3bcb310fab68ac7"
+    },
+    "grow-pipeline": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/grow-pipeline/SKILL.md",
+      "computedHash": "3ef766fb14d1809c29202961a4ef726aebfb083a7d0140e12d88d67cd5e9b9c1"
+    },
+    "growth-pulse": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/growth-pulse/SKILL.md",
+      "computedHash": "5ff66ec322f7900f4ad0521b1969d0aff1d3e4c8e2605a7a54691a64dcb7aea2"
+    },
+    "guideline-generation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/brand-voice/skills/guideline-generation/SKILL.md",
+      "computedHash": "c3ad2e581472926557a40d9a63669fe5095c30d77c67cf8d9094bfead2189c85"
+    },
+    "handle-objection": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/handle-objection/SKILL.md",
+      "computedHash": "5b0125b8b747984564e089abda1d54834c352524b656125e357e00823e0a3384"
+    },
+    "handoff": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/handoff/SKILL.md",
+      "computedHash": "f60a2c3688379b7a306b3a7b8dd4120eab39da44c74fa2cb62d6424935f04aa7"
+    },
+    "hiring-screener": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/hiring-screener/SKILL.md",
+      "computedHash": "3526d0c8714f2ee80938e54ed67f2d1568ab9681487a89867bf2da647384f832"
+    },
+    "implement": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement/SKILL.md",
+      "computedHash": "560465496ad0669329993bfdd0604e5c93b5c2446309a76f486040010b063908"
+    },
+    "implement-spec": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/implement-spec/SKILL.md",
+      "computedHash": "c3474ef320861d793e8b30d41fbdd2cb0ceaa1081bb5c81b7f26c455eb776573"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "f0820b18426a7d9a6c823a890988ba0ac70bf0fd596d30d7ef07c88558728c23"
+    },
+    "inbox-manager": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/inbox-manager/SKILL.md",
+      "computedHash": "511bc794f9c1faece1692e12cb0b4345fd6bd7a24c01d11532e20fa6f4e2a2f9"
+    },
+    "inbox-sweep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/inbox-sweep/SKILL.md",
+      "computedHash": "e004100062cdc10cfa10dec366ed279b48ee317361c42842bcf7266697b4c6f4"
+    },
+    "incident-response": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/incident-response/SKILL.md",
+      "computedHash": "839eb81753758b57b05d0beeeb49cbd2287c996085b3c9a0b91405ac89c3e7c4"
+    },
+    "instrument-data-to-allotrope": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "bio-research/skills/instrument-data-to-allotrope/SKILL.md",
+      "computedHash": "d5821728521df40059305790373f34de02ae0d56082a9c141ef794e8101bed9c"
+    },
+    "interview-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/interview-prep/SKILL.md",
+      "computedHash": "f014e4b313ccf72d7585520fcc90651352241401572ef5ff59c61cd6fdec26e7"
+    },
+    "inventory-planner": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/inventory-planner/SKILL.md",
+      "computedHash": "344bb6717991a9601d3c10916155f96c67cbd0fd0959d59864f1103659239f2c"
+    },
+    "invoice-chase": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/invoice-chase/SKILL.md",
+      "computedHash": "2aeb2f2aac99dcbbaaaef82128653a00439905609dc6db1aa0482214e68d74e9"
+    },
+    "job-post-builder": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/job-post-builder/SKILL.md",
+      "computedHash": "98eee0f07b1fbf1dee16ffe0d656967896909bff15248b83e60375cc403235aa"
+    },
+    "journal-entry": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/journal-entry/SKILL.md",
+      "computedHash": "fd2ea535f3376875b10a7f4f7d3a1f3c3218569afb7b4f3982a712dd5d30ef8c"
+    },
+    "journal-entry-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/journal-entry-prep/SKILL.md",
+      "computedHash": "99e5f11e0c8d88b1afd269aa8ae14fb8a7d46741bc0a907a98620ab70881ffc9"
+    },
+    "kb-article": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "customer-support/skills/kb-article/SKILL.md",
+      "computedHash": "8f71608b572d1fcb48ce1c190ea96ddda885fbb63f19683acbb772555af3849d"
+    },
+    "knowledge-synthesis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "enterprise-search/skills/knowledge-synthesis/SKILL.md",
+      "computedHash": "e34babcb605898dee1005c698e511320f2fad3eaf4ceccc1b6994ab75afe273d"
+    },
+    "lead-finder": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/lead-finder/SKILL.md",
+      "computedHash": "7db5d4bb3927dd93db14cb778803e2facb9214e51bd99d021141a7f29d7719c3"
+    },
+    "lead-triage": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/lead-triage/SKILL.md",
+      "computedHash": "3cc8b276750d3cca60cb64f8af92317f397cccb54f7d9864b6d8dbfcdf7396bb"
+    },
+    "legal-response": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/legal-response/SKILL.md",
+      "computedHash": "0f3c29e7924fec2da30646d855c7a8693f3e9db559c50b9bd37e7a38bcdd3571"
+    },
+    "legal-risk-assessment": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/legal-risk-assessment/SKILL.md",
+      "computedHash": "b3f02b18987b10b7f8c50b10fd2012afdc7e5b9c6581323978bcd431a5a535ad"
+    },
+    "log-activity": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/log-activity/SKILL.md",
+      "computedHash": "b30a81d37e70665f6d8e85f91dbf193a83b1418ab218f6268b621a19fb4b773b"
+    },
+    "loop-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/loop-me/SKILL.md",
+      "computedHash": "5dac8f9919f3e1a528a4f1f00db07c81c3e6092e706376d81c697d16422ab163"
+    },
+    "marketing-monday": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/marketing-monday/SKILL.md",
+      "computedHash": "ae10d590389433cebef91d938adc95c879b6bf649955dee099bef20c5e6c2fc0"
+    },
+    "meeting-briefing": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/meeting-briefing/SKILL.md",
+      "computedHash": "23da502640681c02e3646748f7347a76ec47943a059f2e48e30a441bc01562fd"
+    },
+    "memory-management": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "productivity/skills/memory-management/SKILL.md",
+      "computedHash": "694f12b1819c68cfd3463a1006d2ad3330101804aefc815c2a2dd9667871fd79"
+    },
+    "metrics-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/metrics-review/SKILL.md",
+      "computedHash": "fc040cfbf3ee9e014467cc6622c7cf66dbc8d955670d908887022ab401a8bdbb"
+    },
+    "migrate-to-shoehorn": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/misc/migrate-to-shoehorn/SKILL.md",
+      "computedHash": "a63549df6d5b5c6595029f8c504ccf31a12f01312f03db70da4b45cb10ba5ca8"
+    },
+    "monday-brief": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/monday-brief/SKILL.md",
+      "computedHash": "1919f7a6dc20371a49e34888e97e25b66e94d5e17c2ea00aa88837ae8c22c755"
+    },
+    "month-end-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/month-end-prep/SKILL.md",
+      "computedHash": "c6926e11b4184ce8288abc801aa4196a4589fe0fe1d278681d094736808babde"
+    },
+    "nextflow-development": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "bio-research/skills/nextflow-development/SKILL.md",
+      "computedHash": "2166cc6bd72da0cb25bdff90a4c9cf1fa90ed93872927d45db4a932adcaec738"
+    },
+    "onboarding": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/onboarding/SKILL.md",
+      "computedHash": "e3df9416f375ebe0627525853c4876ab4eef25703700a70e92c9137bf7d91dc8"
+    },
+    "org-planning": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/org-planning/SKILL.md",
+      "computedHash": "d0e6737fb6705eec94d58c9322796920bdce222171f24ae3157ccafe5992bc19"
+    },
+    "outreach-composer": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/outreach-composer/SKILL.md",
+      "computedHash": "29fc0a7b0a703a736ba11228d5351386b54a3ceba6bc46eea50d211360692d90"
+    },
+    "pay-the-bills": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/pay-the-bills/SKILL.md",
+      "computedHash": "6bd70b44e50cd49baddeede46db17ea7332cc1d667749c3c8eee26b3221479a7"
+    },
+    "payroll-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/payroll-prep/SKILL.md",
+      "computedHash": "9c36a067ae1db11804dd63d19ca417bd2d285c267737ee31c656cc772598e0b3"
+    },
+    "people-report": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/people-report/SKILL.md",
+      "computedHash": "e92e07e0fdd39b2f74047349480bdebabfbce9067a64ddebbc18d2df8837efcf"
+    },
+    "performance-report": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/performance-report/SKILL.md",
+      "computedHash": "7e653f1e4455267a29adae0350a2a5e28a78f162bf85b0e8e8de706ef166e567"
+    },
+    "performance-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/performance-review/SKILL.md",
+      "computedHash": "53a7d4ec8c97d6cea508893a031e0e2a6de5acc50659acbd8435d3b2bd43e354"
+    },
+    "pipeline-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/pipeline-review/SKILL.md",
+      "computedHash": "0f572bed63db8956616fe4508581503a8a9ee9d26b32bee1cf9d55606bbd8898"
+    },
+    "plan-payroll": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/plan-payroll/SKILL.md",
+      "computedHash": "f83eae5e1a53dbcf1e27e8abdbf2ac440e8b573321d822f36583bc447d79be8b"
+    },
+    "plan-zoom-integration": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/plan-zoom-integration/SKILL.md",
+      "computedHash": "79d5d86e8365c3a7cef37468f4ef249229321b7cd10b83303dfdd4cb8e293c50"
+    },
+    "plan-zoom-product": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/plan-zoom-product/SKILL.md",
+      "computedHash": "7d7b483c402802f44b5b6f982b1e905090a2e6755a4d85bdb8006b93b03b5448"
+    },
+    "policy-lookup": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/policy-lookup/SKILL.md",
+      "computedHash": "dcba03c88ca5d10210b562afcf17c108e3b9b583fb3794c7378b2dd02a4d272e"
+    },
+    "pr": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/pr/SKILL.md",
+      "computedHash": "a66195583d0f9323004cdd4da169f93449071f29023671f3e31a916e740f6861"
+    },
+    "probe-sdk": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/probe-sdk/SKILL.md",
+      "computedHash": "c54273bd73061d15ed944b1dcc3ab9de993dd192e6dfeb4610a1668ac3773740"
+    },
+    "process-doc": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/process-doc/SKILL.md",
+      "computedHash": "9c4932b1e423751238cc46157d43f0d8a7a3b813126d9428db894e5bd7e4c3a1"
+    },
+    "process-optimization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/process-optimization/SKILL.md",
+      "computedHash": "c841ba67c200d82f4e86522001e64c4c50f3de9d00a52c3e7eb6d9420fed71dc"
+    },
+    "product-brainstorming": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/product-brainstorming/SKILL.md",
+      "computedHash": "df85d15cad06b5755e7bd9c77e57ff215c62047d0fcb160ac7fcc2d169eb3407"
+    },
+    "proposal-builder": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/proposal-builder/SKILL.md",
+      "computedHash": "e136d2ba3b97f4aa18b9f3a33961fe293ed3fd1a2e0b5fb54aff8d76609164e5"
+    },
+    "prospect": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/apollo/skills/prospect/SKILL.md",
+      "computedHash": "737620ca3d8ce234fdab7e7f7eebab9c7a82d702debcd789226d675ae91bba17"
+    },
+    "prototype": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/prototype/SKILL.md",
+      "computedHash": "1e3ba2202a5b77b8aa50bc4447432331d6e42590e53ec0935689662cfed199ca"
+    },
+    "reactivate": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/reactivate/SKILL.md",
+      "computedHash": "04d31029027bc08eed8a0da92d918e7b0f698e68025a270742d4001f8c3d7ae7"
+    },
+    "reconciliation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/reconciliation/SKILL.md",
+      "computedHash": "940db43d654b59fe6196bcd629bdc24c8a227a4aa2040ffeaacc7a3b76305e99"
+    },
+    "recruiting-pipeline": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "human-resources/skills/recruiting-pipeline/SKILL.md",
+      "computedHash": "caef048443407da4880352133da1991f358b8efa8f04cd6e8fa3f318cf93d0c8"
+    },
+    "renewal-radar": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/renewal-radar/SKILL.md",
+      "computedHash": "3177fd3cf3a46d7364b246d1f782ed042ac972cba34b968db01d741234bbb2c3"
+    },
+    "rep-context": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/rep-context/SKILL.md",
+      "computedHash": "88c683fd2b95e744dd9dcd98f4c818dc4ec83057a6f94a6ea08f9f6616330473"
+    },
+    "report-builder": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/report-builder/SKILL.md",
+      "computedHash": "145499b004fd658afe3abba66b904f52d9ed6b123e5f1b4fb19400bc9620cb6c"
+    },
+    "report-pack": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/report-pack/SKILL.md",
+      "computedHash": "34865cd5cdbefcb0828cbcb4f6a611fa9562dacba874d94b4ac21bdae720e4a4"
+    },
+    "research": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/research/SKILL.md",
+      "computedHash": "7662666af51f8b1672ed7d88360d4b82656da21bb7b11c49e956eeb3036b85d5"
+    },
+    "research-synthesis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/research-synthesis/SKILL.md",
+      "computedHash": "9af6f31333e24665fedf84dae44d8fa3a753ba664beafada92b9bfd1133b4396"
+    },
+    "restock": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/restock/SKILL.md",
+      "computedHash": "dde347b3a196e27a57b5880826acc21472997ce43175344e5e0d7e380ede2b7a"
+    },
+    "retro": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/retro/SKILL.md",
+      "computedHash": "e260aefb7b75b3548a3ee9883afbf8808e521f2e86feec92399617894f83b7c2"
+    },
+    "review-contract": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/review-contract/SKILL.md",
+      "computedHash": "20b1a6a1ad611365f5f9465688535ed9f8416d4193b56e50a30c1a9177483142"
+    },
+    "review-reputation": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/review-reputation/SKILL.md",
+      "computedHash": "875a27451876bbd6e20baf49508c508f73b9597dace9c0f57a649afd0e5c2b8e"
+    },
+    "risk-assessment": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/risk-assessment/SKILL.md",
+      "computedHash": "9e4c1f789962d8cfd355037f03ad94f9579d9e729254c211ac39c5a5434cfab2"
+    },
+    "rivet-sdk": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/rivet-sdk/SKILL.md",
+      "computedHash": "12649b9067b42beb7ff6d0ec4fe242abf9f909316f145eba3d661cff2159d9df"
+    },
+    "roadmap-update": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/roadmap-update/SKILL.md",
+      "computedHash": "98d3afc3a322f9d6f18724f74e6cdc6fa594996eaeef4c7e5c492f051bf4b5b5"
+    },
+    "route-lead": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/route-lead/SKILL.md",
+      "computedHash": "5791c6a4cbfcbe45b30cd853b32cfecc109e835bdfaa413ebd8a0d866072250d"
+    },
+    "runbook": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/runbook/SKILL.md",
+      "computedHash": "ff644d95e8a54f32169236b229e01402574f469055d5aad11963c50a340eb979"
+    },
+    "scaffold-exercises": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/misc/scaffold-exercises/SKILL.md",
+      "computedHash": "019bbcc250992c776244aa1c818aed4015364f65bb9d1dbfd3bef9bae196b065"
+    },
+    "schedule-meeting": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/schedule-meeting/SKILL.md",
+      "computedHash": "357f9ce32c0b64bf4ec185944c58e32091db303eed63aa1203ce0e0a697e8f46"
+    },
+    "scientific-problem-selection": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "bio-research/skills/scientific-problem-selection/SKILL.md",
+      "computedHash": "16ba20d3596ae8f0cb6357feebd5d36d0e13b25a6deabb818d8215f94a372788"
+    },
+    "scribe": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/scribe/SKILL.md",
+      "computedHash": "1a76f8f777433c9d12e5880677d4b0e09dce0aa7739b21428860c9e02181b866"
+    },
+    "scvi-tools": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "bio-research/skills/scvi-tools/SKILL.md",
+      "computedHash": "8f79b6431a719dbd8bba0765d8481200e5556940f50054901819e3c3b9f2f9af"
+    },
+    "search": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "enterprise-search/skills/search/SKILL.md",
+      "computedHash": "c2bd5fdfca19174bbac753739444e38e3cbd071ab2977cf7c246c36194e88602"
+    },
+    "search-strategy": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "enterprise-search/skills/search-strategy/SKILL.md",
+      "computedHash": "dd0db2b1e9249312214920d78130fdc30e7122652112d2abb42437359f856d3a"
+    },
+    "seo-ai-visibility": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/seo-ai-visibility/SKILL.md",
+      "computedHash": "a0d191ef4af4f1a3d53ef2755762042e0c9cebb82d1a802c58cd7dcdc2ccb2de"
+    },
+    "seo-audit": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "marketing/skills/seo-audit/SKILL.md",
+      "computedHash": "20f87f873270dfe81eed207ed5773d8321b5864d797c7bd1312f95181f128a46"
+    },
+    "sequence-load": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/apollo/skills/sequence-load/SKILL.md",
+      "computedHash": "b021f25b908acf3f40280468f4f9d8e755b9d77a33011096e37290e2a3046756"
+    },
+    "setup": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/setup/SKILL.md",
+      "computedHash": "4a67664661fc6c9245f621b1bb89b46622587d640ada366e501d21be901e5ec4"
+    },
+    "setup-matt-pocock-skills": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+      "computedHash": "9659e7025d4cf1c0a0b40ddff32ed4b8debb87a4b20d7a52ff89c506a638df69"
+    },
+    "setup-pre-commit": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/misc/setup-pre-commit/SKILL.md",
+      "computedHash": "98523a8db5977c41a095834df8697123bb845ff6ddbb9500733b161f11441a37"
+    },
+    "setup-ts-deep-modules": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/setup-ts-deep-modules/SKILL.md",
+      "computedHash": "8a3136caaea8fa439521917a624496769eba40cf8c59f62b4113a0dc916288a3"
+    },
+    "setup-zoom-mcp": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/setup-zoom-mcp/SKILL.md",
+      "computedHash": "f80cf6a39af23722a4b09ce9427d6dea0214ed491fb1497c82f9c8922591d61a"
+    },
+    "setup-zoom-oauth": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/setup-zoom-oauth/SKILL.md",
+      "computedHash": "3b7f4c65276cfaf71e1a0741bbb622818f547b5c59a78698dc1f039862529d38"
+    },
+    "setup-zoom-webhooks": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/webhooks/SKILL.md",
+      "computedHash": "5609b9eda8e4573ab0eb828c3e92532e080f52a7a248a7c9dd635ad8a7ff3620"
+    },
+    "setup-zoom-websockets": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/websockets/SKILL.md",
+      "computedHash": "3c1dabff1f783d435168d7c46707c0762213408862b889b1c955c3ca54ea7b7d"
+    },
+    "signature-request": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/signature-request/SKILL.md",
+      "computedHash": "6921a577bc42cfc925e7fb176b050c86e534eb81359b284749f41d31b0f345a5"
+    },
+    "single-cell-rna-qc": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "bio-research/skills/single-cell-rna-qc/SKILL.md",
+      "computedHash": "69fab553f98aa378a22dc316de004aab3cb669df11b69ce395d9a86e833ac0d1"
+    },
+    "slack-messaging": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/slack/skills/slack-messaging/SKILL.md",
+      "computedHash": "bb4369991bd8c26cb58209312bd37722f0edf38748499a9f6254fbc6b24fa3fa"
+    },
+    "slack-search": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/slack/skills/slack-search/SKILL.md",
+      "computedHash": "0031f126f5bf123c0539b8f33a4c91051f73a359f1c22bebad9fd08a0505338e"
+    },
+    "smb-onboard": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/smb-onboard/SKILL.md",
+      "computedHash": "5da099ac00baffc9b38f6f58df4b3fb3d4f0c466b212b2b066036013a604f7b6"
+    },
+    "smb-router": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/smb-router/SKILL.md",
+      "computedHash": "91231eab4669443a6af663520a458b8505b6c2fd3c1ede43237c0c0b1fb96d8d"
+    },
+    "social-content-engine": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/social-content-engine/SKILL.md",
+      "computedHash": "83305dbd0e7c7c30352e1da4df9948f6b683446c41ceabe63255acedad730f8d"
+    },
+    "source-management": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "enterprise-search/skills/source-management/SKILL.md",
+      "computedHash": "b6d2155e4ca240ed54a001d25601085e96d4c957bd65769364ad7fb3f3e227f0"
+    },
+    "sox-testing": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/sox-testing/SKILL.md",
+      "computedHash": "fd400a8761de3cfec8d54ebf3c22aaedc3ce11bbed0199e12ababf9fc3b2ed8a"
+    },
+    "speed-to-lead": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/speed-to-lead/SKILL.md",
+      "computedHash": "51ad50c41ce1fc5d2a87adf4a6864b71edaba6d1fc6cd88491b947504c9bdfad"
+    },
+    "sprint-planning": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/sprint-planning/SKILL.md",
+      "computedHash": "51dd6bf12a8e7f0867410f144e1d208469a1b1bbb7ee753f4e489f20904c2beb"
+    },
+    "sql-queries": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/sql-queries/SKILL.md",
+      "computedHash": "b466ccfeda5f2b46338652bf0994ff8f6938bc1743cf18d65cb6cb42f7551429"
+    },
+    "stakeholder-map": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/stakeholder-map/SKILL.md",
+      "computedHash": "1bbbd4222d6153a3944650a5c229708baf273fe13a94f46b902519fd9a617b1e"
+    },
+    "stakeholder-update": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/stakeholder-update/SKILL.md",
+      "computedHash": "34ad9f0b7fe8e12488742126b52cca2a4977ed8441752bf6d058f0bc9acb9cf3"
+    },
+    "standup": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/standup/SKILL.md",
+      "computedHash": "569e4dc546afeaf765db6baf29cd4d40eb5fb3ef5cb0f6c10b5c786c4b4e20f9"
+    },
+    "start": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "productivity/skills/start/SKILL.md",
+      "computedHash": "556c9b6d696f9ab3860547e8a2cc1bc44ac9fcb96e64b7127c023effae9f4f5b"
+    },
+    "statistical-analysis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/statistical-analysis/SKILL.md",
+      "computedHash": "4242cec3fbadc3d0621935c2d2c31546320aa8447059d529df61b7ceb7fb849d"
+    },
+    "status-report": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/status-report/SKILL.md",
+      "computedHash": "9427137cc8bf1d5d1b246cffc139fbefc71c2c4c80f73cc6ce2478bed6e39d6e"
+    },
+    "synthesize-research": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/synthesize-research/SKILL.md",
+      "computedHash": "1477780209aa105e4c5187bf19c951c1bc13a72a593d5392761ea727e71cfa11"
+    },
+    "system-design": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/system-design/SKILL.md",
+      "computedHash": "af8f7a393dea88bf9f4a4bc2c799ece207f6988436a7eab1f805e5384948b3fd"
+    },
+    "task-management": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "productivity/skills/task-management/SKILL.md",
+      "computedHash": "9aa283f28e19d24e334dc6bdeb3221f165a12c4bb7392bfa83c6b4b4b7d1253c"
+    },
+    "tax-prep": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/tax-prep/SKILL.md",
+      "computedHash": "cfe9ccf22b307cad2cbf46a0ee5623c6befe6e3cf036e02c888a71a624249bf0"
+    },
+    "tax-season-organizer": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/tax-season-organizer/SKILL.md",
+      "computedHash": "9893dc0b60aafddbf5a4229fdaac81613bb108630b29becd8091936f99b43cad"
+    },
+    "tdd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/tdd/SKILL.md",
+      "computedHash": "e3e0f78ff1c2d52ffefa0378baa1e80e129d359288cf9a56f4e59afcd2aac86c"
+    },
+    "teach": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/teach/SKILL.md",
+      "computedHash": "31bb3eed09dd2787e290e933def99fbf7d65044a29119c224af47c01404ab228"
+    },
+    "team-pipeline": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/team-pipeline/SKILL.md",
+      "computedHash": "91589f86c44b23ca65e0444df97d8f18637edc82b3235687083f14a38883a3e1"
+    },
+    "tech-debt": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/tech-debt/SKILL.md",
+      "computedHash": "2deda1799b063b0acec4f66b4a3f57be882ff33c08405be3093c98705f55e870"
+    },
+    "testing-strategy": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/testing-strategy/SKILL.md",
+      "computedHash": "baedd86aacb5771735dd1174d85c7c1e0e8375f4202b4e4ca141b22d5ddcc59f"
+    },
+    "ticket-deflector": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "small-business/skills/ticket-deflector/SKILL.md",
+      "computedHash": "35c0b371be4a97f1be0263fdf67b11bb352881cebe8ed25515822de37594e93c"
+    },
+    "ticket-triage": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "customer-support/skills/ticket-triage/SKILL.md",
+      "computedHash": "1420b923562637728b3d1ffef90708f571e8d7762def0edaff27d771c6250c32"
+    },
+    "to-questionnaire": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/to-questionnaire/SKILL.md",
+      "computedHash": "0bcb2b31a45a3d176daa07c16d6532ee7819b802de081090c3fa856702767b13"
+    },
+    "to-spec": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-spec/SKILL.md",
+      "computedHash": "eb934b5eda9523c7853a2741544bd4721ee1bea471f5a04f8397827f67bdbdda"
+    },
+    "to-tickets": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-tickets/SKILL.md",
+      "computedHash": "17496514c92954f68eacdf2b1221e2ddb39fa231b83f03c70bc7d4422f704b2d"
+    },
+    "triage": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/triage/SKILL.md",
+      "computedHash": "4342a07c9ebe0696713ec93a883c46e56503a587a34d824fabab5ca61e3bdfbb"
+    },
+    "triage-nda": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/triage-nda/SKILL.md",
+      "computedHash": "708e5672e7afba83168298e06db3cc5b3ee736c7ae6b2eef3ae203adf8fe2a4e"
+    },
+    "ui-toolkit/web": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/ui-toolkit/SKILL.md",
+      "computedHash": "330cdb9620ae5972437764e075409cc5742f0a9da3faae21af0fdc16b3e24ce9"
+    },
+    "update": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "productivity/skills/update/SKILL.md",
+      "computedHash": "a453118e50304b462294399348e790699538eaaa7c09fbcaf1eb2d7539dab451"
+    },
+    "update-opportunity": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/update-opportunity/SKILL.md",
+      "computedHash": "8e5c53b34b2cda720a3021b6ecf67de51d397d531b74eb027c098297a77a4bca"
+    },
+    "user-research": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/user-research/SKILL.md",
+      "computedHash": "d178dfb7edc893482f377803d7385cfd4a06c38579cc751cde7c66059d41b797"
+    },
+    "ux-copy": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "design/skills/ux-copy/SKILL.md",
+      "computedHash": "107740b4daeea92f9bed76fb89ad55b7dbe6733af418baeb797e6d577fe6faeb"
+    },
+    "validate-data": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/validate-data/SKILL.md",
+      "computedHash": "987f2eed5fcb84cc84f62f3c38636dffffe0356c8b1caa36bd152568987e25c3"
+    },
+    "variance-analysis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "finance/skills/variance-analysis/SKILL.md",
+      "computedHash": "6dc81e8c565df5afb7102b690adfca65878e9ef9d53eacfa7d085ae9d25cfa91"
+    },
+    "vendor-check": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "legal/skills/vendor-check/SKILL.md",
+      "computedHash": "080017ac541671ca3c048ee2295144ecf7d37da7393aea849123567ae09ec730"
+    },
+    "vendor-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "operations/skills/vendor-review/SKILL.md",
+      "computedHash": "7d3e94fbbf2b84f6b28dfc3c61ce2398632d91d34689f042aede9134a6c72e2c"
+    },
+    "verification-before-completion": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "computedHash": "09b0e3a4689c1c38a3b8fc6ef57a1d4165aa33c0013d546dbde9dd348941a319"
+    },
+    "view-pdf": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "pdf-viewer/skills/view-pdf/SKILL.md",
+      "computedHash": "40ec0b364abad8b380985244a5670793bc58bc6fac3c9623b0f4392fadcc93d3"
+    },
+    "wait-what": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/wait-what/SKILL.md",
+      "computedHash": "70c9bf9f5a84b6849760f9492f569d5aa12307a0310323fde5f583144730c26c"
+    },
+    "wayfinder": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "computedHash": "bd82983c105881f6cb0c15e5d029c0d5fca756939b69eebe94e49003069a276f"
+    },
+    "weekly-prep-brief": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/common-room/skills/weekly-prep-brief/SKILL.md",
+      "computedHash": "8164d732f12b79ebe30cad8d6af906dd19484e65025d0c4adb54a04efc779a01"
+    },
+    "weekly-wrap": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/weekly-wrap/SKILL.md",
+      "computedHash": "b87ecea525cd03d1d274863b9545daf7b73fe256305faaf13543fdf3d115eba0"
+    },
+    "win-loss-review": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "sales/skills/win-loss-review/SKILL.md",
+      "computedHash": "e44ed79e3f712c2e70185537149bf27752c6623ed03e51e62794872bf0f350bc"
+    },
+    "wizard": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wizard/SKILL.md",
+      "computedHash": "806f7f7461824054ffaf3344e1e56e5e8a42344e22bdf8d22c6a8117eb9b1c38"
+    },
+    "write-query": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/write-query/SKILL.md",
+      "computedHash": "61003e8fe94e9f44de8920f54dbf98c4252153e2c2ac014d7c867d69f02606c4"
+    },
+    "write-spec": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/write-spec/SKILL.md",
+      "computedHash": "0707e60bcc945c0ce1fd843161065a7bcd906552fb26183b1554b0eef3d1d739"
+    },
+    "writing-beats": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/writing-beats/SKILL.md",
+      "computedHash": "5af3ce4383f995c76a4780b3d3029af8e9c69aa1a44d57a6c8bc13a820836b8a"
+    },
+    "writing-for-agents": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "computedHash": "e79a2476b2417b228922453478d9505a6b9af19f3a412e560728ce62ed3555ca"
+    },
+    "writing-fragments": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/writing-fragments/SKILL.md",
+      "computedHash": "00d286876c139f3f764e5021923f632c785dba1eb2fd7afdd9f44854a12772d2"
+    },
+    "writing-shape": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/writing-shape/SKILL.md",
+      "computedHash": "7e06f4ca8a96c83b5b9a540c0279e998ba449e74586c77d44f9b8183c1bd8ef8"
+    },
+    "zoom-apps-sdk": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/zoom-apps-sdk/SKILL.md",
+      "computedHash": "657783268bff3b0dff8407d4784d60faaa604b216d8518d3ff887642d91c1aae"
+    },
+    "zoom-cobrowse-sdk": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md",
+      "computedHash": "ac7280d6dfd2afabc5c43a6216c5682045b6596311958b392748d8907fc1b112"
+    },
+    "zoom-general": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/general/SKILL.md",
+      "computedHash": "151afcc07544736886541324343d344cee634af27004c7b395861a60ec6507ad"
+    },
+    "zoom-mcp": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/zoom-mcp/SKILL.md",
+      "computedHash": "db6c107b26874d9cdcc41cd8cef6583728223d173398b5b55003e40d232141e7"
+    },
+    "zoom-oauth": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/oauth/SKILL.md",
+      "computedHash": "48ab9ca96f8f522e76e38a22687357c0b857b0dd4b036c2c28e20cdf0489f12a"
+    },
+    "zoom-rtms": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "partner-built/zoom-plugin/skills/rtms/SKILL.md",
+      "computedHash": "82f9f482bb5245cc652f94bd101eee427828c8f2b3da42469a6585398949dc6e"
+    }
+  }
+}
