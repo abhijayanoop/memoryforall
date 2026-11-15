@@ -7,3 +7,7 @@
 .claude/super-board/migrations/
 .claude/super-board/upgrade.json
 .claude/settings.json.bak-*
+
+# real captured data stays private (public repo)
+server/tests/private/
+server/evals/private/
